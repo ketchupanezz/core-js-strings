@@ -366,7 +366,7 @@ function reverseWords(str) {
 }
 
 /**
- * Inverts the case of each character in the given string.
+ * Inverts the case of each character in the given string
  *
  * @param {string} str - The input string.
  * @returns {string} - The string with the case of each character inverted.
