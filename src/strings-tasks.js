@@ -24,7 +24,7 @@ function getStringLength(value) {
 }
 
 /**
- * Returns true if the value is a string, otherwise returns false.
+ * Returns true if the value is a string, otherwise returns false
  *
  * @param {string} value - The value to check if it's a string.
  * @return {boolean} - True if the value is a string, false otherwise.
